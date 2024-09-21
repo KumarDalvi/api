@@ -1,0 +1,29 @@
+{
+  "song_list": [
+    {
+      "id": "1",
+      "name": "Bohemian Rhapsody",
+      "lyrics": "There is a truth older than the ages \n There is a promise of things yet to come \n There is one born for our salvation \n Jesus \n There is a light that overwhelms the darkness \n There is a kingdom that forever reigns \n There is freedom from the chains that bind us \n Jesus, Jesus \n Who walks on the waters \n Who speaks to the sea \n Who stands in the fire beside me \n He roars like a lion \n He bled as the Lamb \n He carries my healing in His hands \n Jesus \n There is a name I call in times of trouble \n There is a song that comforts in the night \n There is a voice that calms the storm that rages \n He is Jesus, Jesus \n Who walks on the waters \n Who speaks to the sea \n Who stands in the fire beside me \n He roars like a lion \n He bled as the Lamb \n He carries my healing in His hands \n Jesus \n Messiah \n My Savior \n There is power in Your name \n You're my rock and my Redeemer \n There is power in Your name \n In Your name \n You walk on the waters \n You speak to the sea \n You stand in the fire beside me \n You roar like a lion \n You bled as the Lamb \n You carry my healing in Your hands \n God, You walk on the waters \n You speak to the sea \n You stand in the fire beside me \n You roar like a lion \n You bled as the Lamb \n You carry my healing in Your hands \n Jesus, there is no one like You \n Jesus, there is no one like You"
+    },
+    {
+      "id": "2",
+      "name": "Imagine",
+      "lyrics": "Imagine there's no heaven, it's easy if you try. No hell below us, above us only sky"
+    },
+    {
+      "id": "3",
+      "name": "Let It Be",
+      "lyrics": "Let it be, let it be, let it be, let it be. Yesterday, all my troubles seemed so far away"
+    },
+    {
+      "id": "4",
+      "name": "Hey Jude",
+      "lyrics": "Hey Jude, don't make it bad, take a sad song and make it better"
+    },
+    {
+      "id": "5",
+      "name": "Yesterday",
+      "lyrics": "Yesterday, all my troubles seemed so far away. Now it looks as though they're here to stay"
+    }
+  ]
+}
